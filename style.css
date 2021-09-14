@@ -1,0 +1,58 @@
+body {
+  background: #FFFFFF;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background: #bbbbbb;
+  font-family: 'Josefin Slab', serif;
+  font-family: 'Signika Negative', sans-serif;
+}
+
+nav {
+  background: #777777;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin: 2px;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  font-style: italic;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #00114F;
+  font-weight: 600;
+}
+
+a:hover {
+  color: #7C98FF;
+}
+
+img {
+  border: 0;
+  outline: 0;
+}
+
+p {
+  font-family: 'Josefin Slab', serif;
+}
+
+h1 {
+  font-family: 'Signika Negative', sans-serif;
+  font-weight: 700;
+  color: #A32B21;
+}
+
+h2 {
+  font-family: 'Signika Negative', sans-serif;
+  font-weight: 400;
+  color: #21382D;
+}
